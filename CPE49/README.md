@@ -1,7 +1,7 @@
 # 大學程式能力檢定 (Collegiate Programming Examination, 簡稱CPE)
 一星題精選
 
-基礎
+> 基礎
 1.	Vito's family	(CPE10406, UVA10041)
 2.	Hashmat the brave warrior	(CPE10407, UVA10055)
 3.	Primary Arithmetic	(CPE10404, UVA10035)
@@ -9,14 +9,16 @@
 5.	You can say 11	(CPE10460, UVA10929)
 6.	Bangla Numbers	(CPE10414, UVA10101)
 7.	List of Conquests	(CPE21924, UVA10420)
-字元與字串
+
+> 字元與字串
 8.	What's Cryptanalysis?	(CPE10402, UVA10008)
 9.	Decode the Mad man	(CPE10425, UVA10222)
 10.	Problem J: Summing Digits	(CPE10473, UVA11332)
 11.	Common Permutation	(CPE10567, UVA10252)
 12.	Rotating Sentences	(CPE21914, UVA490)
 13.	TeX Quotes	(CPE22131, UVA272)
-數學計算
+
+> 數學計算
 14.	A - Doom's Day Algorithm	(CPE22801, UVA12019)
 15.	Jolly Jumpers	(CPE10405, UVA10038)
 16.	What is the Probability!!	(CPE10408, UVA10056)
